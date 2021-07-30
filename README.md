@@ -14,7 +14,7 @@ Shipping Mall Data analystics is able to display analysis of shipping companies 
 Additional Data is mined from both customer online review sites and shipping agency sites. The tool will help both potential customers to make better decisions and help the shipping agencies to build a competitive advantage among themselves. The tool shows trends in purchase patters, correlaton between price, quantity and location. It also focuses on service delivery with unique filter options to choose from.
 
 
-# How we build it.
+# How we build it
 -Google Sheet provided the avenue to clean the data and pull out key KPIs
 
 -Google Analytics data base and data source
