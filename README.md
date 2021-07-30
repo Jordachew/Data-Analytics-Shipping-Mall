@@ -16,11 +16,11 @@ Shipping Mall Data analystics is able to display analysis of shipping companies 
 Additional Data is mined from both customer online review sites and shipping agency sites. The tool will help both potential customers to make better decisions and help the shipping agencies to build a competitive advantage among themselves. The tool shows trends in purchase patters, correlaton between price, quantity and location. It also focuses on service delivery with unique filter options to choose from.
 
 
-# How we build it
-# -Google Sheet provided the avenue to clean the data and pull out key KPIs
+** How we build it
+** -Google Sheet provided the avenue to clean the data and pull out key KPIs
 
-# -Google Analytics data base and data source
-# -Gooogle Studios for data visualization 
+** -Google Analytics data base and data source
+** -Gooogle Studios for data visualization 
 ** Data is feed into Google studios and is updated every 15 min via Googl Analytics. Visuaizations are created by linking data source. This data is then used to create charts. Formulas and functions are also utilizated to clean, mine, analyse or filter data. 
 
 # Challenges
@@ -32,10 +32,10 @@ Programing skills of the group is limited but we were able to pull it off effect
 We foresee this as a important tool that can help shipping companies make decisions. Additionally, customers will be able to get very important insights. Organizations such as the shipping association, customs, JIS and STATIN would also be interested in the data and analysis we provide. We can monitize the opportunity by offering advertizing to shipping companies, referalls to their sites, clickbait and afilliated links.
 
 # Group Members
-# Jordache Wilson
-# Terri-niche Kinlock-Smart
-# Shemar Edwards
-# Christine Addlery
+** Jordache Wilson
+** Terri-niche Kinlock-Smart
+** Shemar Edwards
+** Christine Addlery
 
 
 
