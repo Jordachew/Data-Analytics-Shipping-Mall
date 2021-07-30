@@ -1,5 +1,7 @@
-# Data-Analytics-Shipping-Mall
+# Data-Analytics-The-Shipping-Mall(TSM)
 Data analytics Boot camp project
+https://tinyurl.com/TSMdataanalytics
+
 
 # Inspiration
 
@@ -26,7 +28,7 @@ Due to the limited time, we were not able to employ the use of scraping tools ot
 Additionally, hosting the data in SQl would have been a prefered options
 Programing skills of the group is limited but we were able to pull it off effectively. 
 
-# Where do we see SHIPPING-MALL going
+# Where do we see THE-SHIPPING-MALL(TSM) going
 We foresee this as a important tool that can help shipping companies make decisions. Additionally, customers will be able to get very important insights. Organizations such as the shipping association, customs, JIS and STATIN would also be interested in the data and analysis we provide. We can monitize the opportunity by offering advertizing to shipping companies, referalls to their sites, clickbait and afilliated links.
 
 # Group Members
