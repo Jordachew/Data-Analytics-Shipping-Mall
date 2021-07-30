@@ -21,7 +21,7 @@ Additional Data is mined from both customer online review sites and shipping age
 
 # -Google Analytics data base and data source
 # -Gooogle Studios for data visualization 
-# -Data is feed into Google studios and is updated every 15 min
+** Data is feed into Google studios and is updated every 15 min via Googl Analytics. Visuaizations are created by linking data source. This data is then used to create charts. Formulas and functions are also utilizated to clean, mine, analyse or filter data. 
 
 # Challenges
 Due to the limited time, we were not able to employ the use of scraping tools ot pull rates and address also reviews from google. 
